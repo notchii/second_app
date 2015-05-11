@@ -1,5 +1,6 @@
 # Ruby on Rails チュートリアル：サンプルアプリケーション
 これは2番目のRailsアプリケーションです。
+ぶんばぼん
 This is the second application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.jp/)
 by [Michael Hartl](http://michaelhartl.com/).
